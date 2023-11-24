@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  font-size: 16px;
+  margin: 0 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: skyblue;
+}
